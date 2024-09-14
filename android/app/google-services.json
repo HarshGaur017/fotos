@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188165506011",
+    "project_id": "fotos-cd61e",
+    "storage_bucket": "fotos-cd61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188165506011:android:0ed16d8ce751aa7d22ddfe",
+        "android_client_info": {
+          "package_name": "com.example.fotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwubA2hUM0WJW92M2MeYW_ImS7-K84nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
